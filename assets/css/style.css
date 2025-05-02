@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    width: 800px;
+    margin: 20px auto;
+    background-color: bisque;
+    font-family: Garamond, Georgia, serif;
+    font-size: 22px;
+
+}
+
+img{
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    border-radius: 10px;
+}
+
+img:hover{
+    background-color: rgb(255, 209, 152);
+}
+
+h2{
+    margin: 20px 0px;
+}
+
+a{
+    color: black;
+}
+
+figure{
+    width: 80%;
+    margin: 0px auto;
+}
+
+figure p{
+    font-size: 15px;
+    margin: 0px auto;
+    padding: 0px 30px 20px 30px;
+}
+
+figure img:hover{
+    border: black 5px solid;
+}
+
+ul{
+    padding: 0px 20px;
+}
+
+li{
+    padding: 5px 0px;
+}
+
+
